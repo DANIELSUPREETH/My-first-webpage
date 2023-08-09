@@ -1,0 +1,16 @@
+*{margin: 5;
+  padding: 1;
+  background-color:black;
+}
+body{
+    font-family: 'poopins',sans-serif;
+}
+#para1{ color:rgb(213, 210, 214);}
+h1{color: rgb(220, 219, 220);}
+h2{color:chocolate}
+#para2{color:bisque}
+h3{color:burlywood}
+#LI1{ color: lawngreen;}
+#LI2{color: lawngreen;}
+#LI3{color: lawngreen;}
+
